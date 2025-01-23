@@ -1,5 +1,5 @@
-# 🪽 InnoVel(이노블): 인공지능과 함께 펼치는 무한한 아이디 🪽
-<img src="https://github.com/user-attachments/assets/eef20497-568d-4114-9ccc-5e2605b58cc0" /> </br>
+# 🪽 InnoVel(이노블): 인공지능과 함께 펼치는 무한한 아이디어 🪽
+![image](https://github.com/user-attachments/assets/ee1bf034-a025-44e8-aadc-e8b772c1d6c4) </br>
 
 > 숙명여자대학교 SW중심대학사업단 2024 DACOS&SOLUX 연합해커톤 </br>
 > 기간 : 2024.11.2 ~ 2024.11.9 </br>
@@ -22,9 +22,8 @@
 
 ### 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
 
-- ReadIT(리딧): `Read + IT`의 합성어로 `IT 뉴스를 읽다` 라는 뜻을 지님
-- 사용자가 관심 직무를 선택하면
-- 해당 직무와 관련 있는 IT기사를 빠르게 모아 요약 ✍️
+- InnoVel(이노블): `Into + Novel`의 합성어로 `I`와 `V`를 대문자로 강조하여 'AI' 약자처럼 표현함  
+- 사용자가 원하는 장르, 테마나 줄거리를 선택하면 인공지능을 기반으로 추천 플롯을 제공하여 소설을 쉽게 창작하고 공유할 수 있는 서비스
 
 </br>
 
