@@ -1,8 +1,8 @@
-# 🪽 InnoVel(이노블): 인공지능과 함께 펼치는 무한한 아이디어 🪽
+# 📖 InnoVel(이노블): 인공지능과 함께 펼치는 무한한 아이디어 📖
 ![image](https://github.com/user-attachments/assets/ee1bf034-a025-44e8-aadc-e8b772c1d6c4) </br>
 
-> 숙명여자대학교 SW중심대학사업단 2024 DACOS&SOLUX 연합해커톤 </br>
-> 기간 : 2024.07 ~ 2024.08 </br>
+> 숙명여자대학교 프로그래밍 중앙동아리 SOLUX 2024-1학기 개발프로젝트 </br>
+> 기간 : 2024.03 ~ 2024.08 </br>
 
 </br>
 
@@ -53,12 +53,13 @@
 
 | **이름**            | **역할**              |
 |---------------------|-----------------------|
-| [**노경희**](https://github.com/khee2)     | PM, Backend |
-| [**배정연**](https://github.com/bluishflame)  | Frontend  |
-| [**윤정원**](https://github.com/Yun-Jeongwon) | Data |
-| [**이채영**](https://github.com/alwaysY0ung)     | Backend  |
-| [**정지윤**](https://github.com/GeeYun086)     | Frontend  |
-| [**조수아**](https://github.com/sua0316)     | Data  |
+| [**유현서**](https://github.com/toastome)     | 기획 |
+| [**배정연**](https://github.com/bluishflame)  | Frontend, 디자인|
+| [**선수경**](https://github.com/SeonSukyeong) | Frontend |
+| [**정지윤**](https://github.com/GeeYun086)     | Frontend |
+| [**김승주**](https://github.com/making-a-scene)     | Backend |
+| [**김은지**](https://github.com/Answl)     | Backend |
+| [**이채영**](https://github.com/alwaysY0ung)     | Backend |
 
 </br>
 
